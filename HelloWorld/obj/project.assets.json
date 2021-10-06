@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/home/chalestristian/.nuget/packages/",
-      "outputPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/HelloWorld/obj/",
+      "outputPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/chalestristian/.nuget/NuGet/NuGet.Config"

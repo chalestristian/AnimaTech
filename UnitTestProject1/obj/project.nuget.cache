@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iYRBQBiNZy1+nybRq8i3C0bpLA8c73ecPelDtfnW2vBaeWUom61gSqiW/KsWBc3ZSUvLv9OqsBTfcUeHg8iMLw==",
+  "dgSpecHash": "q+8e2GDmO0hCLykUXXxTLsuDh/RTXAmdKOJot5ijeDtiya6K1tGrbl8A2XwaYDfcVdRhrB6njGP+ZNJqDEIBwQ==",
   "success": true,
-  "projectFilePath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/UnitTestProject1/UnitTestProject1.csproj",
+  "projectFilePath": "/home/chalestristian/Documents/AnimaTech/UnitTestProject1/UnitTestProject1.csproj",
   "expectedPackageFiles": [
     "/home/chalestristian/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/home/chalestristian/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHJw4cZ6mOso1ajJQwvGnkgvMP6OtnixjApZc7D3hYArgEKoLZMLND6qZ+YtxB/waILlLYJGX4STvNjQHUqY1A==",
+  "success": true,
+  "projectFilePath": "/home/chalestristian/Documents/AnimaTech/ChocolateBrand/ChocolateBrand.csproj",
+  "expectedPackageFiles": [
+    "/home/chalestristian/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/chalestristian/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/chalestristian/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/chalestristian/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/chalestristian/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/chalestristian/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

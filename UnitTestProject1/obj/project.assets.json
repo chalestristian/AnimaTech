@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/UnitTestProject1/UnitTestProject1.csproj",
+      "projectUniqueName": "/home/chalestristian/Documents/AnimaTech/UnitTestProject1/UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/UnitTestProject1/UnitTestProject1.csproj",
+      "projectPath": "/home/chalestristian/Documents/AnimaTech/UnitTestProject1/UnitTestProject1.csproj",
       "packagesPath": "/home/chalestristian/.nuget/packages/",
-      "outputPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/UnitTestProject1/obj/",
+      "outputPath": "/home/chalestristian/Documents/AnimaTech/UnitTestProject1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/chalestristian/.nuget/NuGet/NuGet.Config"
@@ -6154,8 +6154,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj": {
-              "projectPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj"
+            "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld.csproj": {
+              "projectPath": "/home/chalestristian/Documents/AnimaTech/HelloWorld/HelloWorld.csproj"
             }
           }
         }

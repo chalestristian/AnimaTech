@@ -1,0 +1,15 @@
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/Services.deps.json
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/Services.dll
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/ref/Services.dll
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/Services.pdb
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/Entities.dll
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/Entities.pdb
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.csproj.AssemblyReference.cache
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.AssemblyInfoInputs.cache
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.AssemblyInfo.cs
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.csproj.CoreCompileInputs.cache
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.csproj.CopyComplete
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.dll
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/ref/Services.dll
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.pdb
