@@ -10,3 +10,6 @@
 /home/chalestristian/Documents/AnimaTech/Entities/obj/Debug/net5.0/Entities.dll
 /home/chalestristian/Documents/AnimaTech/Entities/obj/Debug/net5.0/ref/Entities.dll
 /home/chalestristian/Documents/AnimaTech/Entities/obj/Debug/net5.0/Entities.pdb
+/home/chalestristian/Documents/AnimaTech/Entities/bin/Debug/net5.0/Entities.runtimeconfig.json
+/home/chalestristian/Documents/AnimaTech/Entities/bin/Debug/net5.0/Entities.runtimeconfig.dev.json
+/home/chalestristian/Documents/AnimaTech/Entities/obj/Debug/net5.0/Entities.genruntimeconfig.cache

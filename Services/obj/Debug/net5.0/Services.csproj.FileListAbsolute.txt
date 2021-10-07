@@ -13,3 +13,6 @@
 /home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.dll
 /home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/ref/Services.dll
 /home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.pdb
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/Services.runtimeconfig.json
+/home/chalestristian/Documents/AnimaTech/Services/bin/Debug/net5.0/Services.runtimeconfig.dev.json
+/home/chalestristian/Documents/AnimaTech/Services/obj/Debug/net5.0/Services.genruntimeconfig.cache

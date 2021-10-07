@@ -10,7 +10,7 @@ namespace Entities
         public float PercentualLeite { get; set; }
         public float PercentualManteiga { get; set; }
         public string OrigemCacau { get; set; }
-
-
+        public int Temperatura { get; set; }
+        public bool Temperado { get; set; }
     }
 }

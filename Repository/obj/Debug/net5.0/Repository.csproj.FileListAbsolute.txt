@@ -10,3 +10,6 @@
 /home/chalestristian/Documents/AnimaTech/Repository/obj/Debug/net5.0/Repository.dll
 /home/chalestristian/Documents/AnimaTech/Repository/obj/Debug/net5.0/ref/Repository.dll
 /home/chalestristian/Documents/AnimaTech/Repository/obj/Debug/net5.0/Repository.pdb
+/home/chalestristian/Documents/AnimaTech/Repository/bin/Debug/net5.0/Repository.runtimeconfig.json
+/home/chalestristian/Documents/AnimaTech/Repository/bin/Debug/net5.0/Repository.runtimeconfig.dev.json
+/home/chalestristian/Documents/AnimaTech/Repository/obj/Debug/net5.0/Repository.genruntimeconfig.cache
