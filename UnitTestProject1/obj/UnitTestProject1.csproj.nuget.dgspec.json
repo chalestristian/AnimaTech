@@ -44,10 +44,6 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
-            "EntityFramework.SqlServerCompact": {
-              "target": "Package",
-              "version": "[6.4.4, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.10, )"
@@ -59,6 +55,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.10, )"
             },
@@ -136,17 +136,13 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
-            "EntityFramework.SqlServerCompact": {
-              "target": "Package",
-              "version": "[6.4.4, )"
-            },
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[2.2.7, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[2.2.7, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -162,6 +158,10 @@
               "target": "Package",
               "version": "[5.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -170,15 +170,17 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.4, )"
+              "version": "[16.11.0, )"
             },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[6.2.2, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
