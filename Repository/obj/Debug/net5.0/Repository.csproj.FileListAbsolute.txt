@@ -13,3 +13,18 @@
 /home/chalestristian/Documents/AnimaTech/Repository/bin/Debug/net5.0/Repository.runtimeconfig.json
 /home/chalestristian/Documents/AnimaTech/Repository/bin/Debug/net5.0/Repository.runtimeconfig.dev.json
 /home/chalestristian/Documents/AnimaTech/Repository/obj/Debug/net5.0/Repository.genruntimeconfig.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache

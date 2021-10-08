@@ -1,36 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/home/chalestristian/Documents/AnimaTech/ChocolateBrand/ChocolateBrand.csproj": {}
+    "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\ChocolateBrand\\ChocolateBrand.csproj": {}
   },
   "projects": {
-    "/home/chalestristian/Documents/AnimaTech/ChocolateBrand/ChocolateBrand.csproj": {
+    "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\ChocolateBrand\\ChocolateBrand.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chalestristian/Documents/AnimaTech/ChocolateBrand/ChocolateBrand.csproj",
+        "projectUniqueName": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\ChocolateBrand\\ChocolateBrand.csproj",
         "projectName": "ChocolateBrand",
-        "projectPath": "/home/chalestristian/Documents/AnimaTech/ChocolateBrand/ChocolateBrand.csproj",
-        "packagesPath": "/home/chalestristian/.nuget/packages/",
-        "outputPath": "/home/chalestristian/Documents/AnimaTech/ChocolateBrand/obj/",
+        "projectPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\ChocolateBrand\\ChocolateBrand.csproj",
+        "packagesPath": "C:\\Users\\Thale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\ChocolateBrand\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Thale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/home/chalestristian/Documents/AnimaTech/Entities/Entities.csproj": {
-                "projectPath": "/home/chalestristian/Documents/AnimaTech/Entities/Entities.csproj"
+              "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\Entities.csproj"
               },
-              "/home/chalestristian/Documents/AnimaTech/Services/Services.csproj": {
-                "projectPath": "/home/chalestristian/Documents/AnimaTech/Services/Services.csproj"
+              "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Services\\Services.csproj"
               }
             }
           }
@@ -45,13 +47,41 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "EntityFramework.SqlServerCompact": {
               "target": "Package",
               "version": "[6.4.4, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.2, )"
             }
           },
           "imports": [
@@ -72,26 +102,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/chalestristian/Documents/AnimaTech/Entities/Entities.csproj": {
+    "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chalestristian/Documents/AnimaTech/Entities/Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/home/chalestristian/Documents/AnimaTech/Entities/Entities.csproj",
-        "packagesPath": "/home/chalestristian/.nuget/packages/",
-        "outputPath": "/home/chalestristian/Documents/AnimaTech/Entities/obj/",
+        "projectPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Thale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Thale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,7 +146,15 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
+            "EntityFramework.SqlServerCompact": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
               "version": "[5.0.10, )"
             },
@@ -126,7 +166,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[5.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
@@ -137,6 +177,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.10, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.2, )"
             }
           },
           "imports": [
@@ -154,34 +198,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/chalestristian/Documents/AnimaTech/Services/Services.csproj": {
+    "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chalestristian/Documents/AnimaTech/Services/Services.csproj",
+        "projectUniqueName": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "/home/chalestristian/Documents/AnimaTech/Services/Services.csproj",
-        "packagesPath": "/home/chalestristian/.nuget/packages/",
-        "outputPath": "/home/chalestristian/Documents/AnimaTech/Services/obj/",
+        "projectPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Thale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/chalestristian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Thale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/home/chalestristian/Documents/AnimaTech/Entities/Entities.csproj": {
-                "projectPath": "/home/chalestristian/Documents/AnimaTech/Entities/Entities.csproj"
+              "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Thale\\Documents\\Git Projects\\AnimaTech\\Entities\\Entities.csproj"
               }
             }
           }
@@ -199,6 +245,34 @@
             "EntityFramework": {
               "target": "Package",
               "version": "[6.4.4, )"
+            },
+            "EntityFramework.SqlServerCompact": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.2, )"
             }
           },
           "imports": [
@@ -216,7 +290,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

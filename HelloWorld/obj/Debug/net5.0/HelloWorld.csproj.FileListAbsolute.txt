@@ -51,3 +51,42 @@
 /home/chalestristian/Documents/AnimaTech/HelloWorld/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /home/chalestristian/Documents/AnimaTech/HelloWorld/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /home/chalestristian/Documents/AnimaTech/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CopyComplete
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\EntityFramework.SqlServerCompact.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thale\Documents\Git Projects\AnimaTech\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CopyComplete
