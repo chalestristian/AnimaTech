@@ -12,26 +12,27 @@
     <div id="app">
       <div class="nav-bar"></div>
       
+      <div class="cart">Cart({{ cart }})</div>
+      
       <div class="product-display">
         <div class="product-container">
           <div class="product-image">
-            <a v-bind:href="link">
-            <img v-bind:src="image"></a>
+            <!-- image goes here -->
+            <img :src="image">
           </div>
           <div class="product-info">
-            <h1>{{ product }}</h1>
-            <p v-if="stock > 10">In Stock</p>
-            <p v-else-if="stock > 0">Almost sold out</p>
-            <p v-else="">Out of Stock</p>
+            <h1>{{ title }}</h1>
+            <p v-if="stock">In Stock</p>
+            <p v-else>Out of Stock</p>
             <ul>
-              <li v-for="details in details">{{details}}</li>
+              <li v-for="detail in details">{{detail}}</li>
             </ul>
-            <div v-for="variant in variants" :key="variant.id">
+            <div v-for="(variant,index) in variants" :key="variant.id" @mouseover="updateVariant(index)">
               {{variant.type}}
-
             </div>
-          </div>
 
+            <button class="button" v-on:click="addToCart">Add to Cart</button>
+          </div>
         </div>
       </div>
     </div>
