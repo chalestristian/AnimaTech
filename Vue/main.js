@@ -1,1 +1,7 @@
-const chocolate = 'Dark'
+const app = Vue.createApp({
+    data() {
+        return {
+            product: "Dark Chocolate"
+        }
+    }
+})
